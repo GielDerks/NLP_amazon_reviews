@@ -1,0 +1,14 @@
+mongo ds153593.mlab.com:53593/heroku_fwgml1b2 -u heroku_fwgml1b2 -p Bahwatgoor7!
+
+mongoimport -h ds151463.mlab.com:51463 -d amazonapp -c amazonapp -u gielderks -p Bhwtgr7! --file=/Users/gielderks/PycharmProjects/NLP_V2/laptop_features.json --jsonArray
+
+
+mongoimport -h ds153593.mlab.com:53593 -d heroku_fwgml1b2 -c amazonapp -u heroku_fwgml1b2 -p bb2n8jtcrm17e3tctd4e6ovt8q --file=/Users/gielderks/PycharmProjects/NLP_V2/laptop_features.json --jsonArray
+
+
+mongoimport -d amazonapp -c amazonapp --file='Users/gielderks/PycharmProjects/NLP_V2/laptop_features.json' --jsonArray
+
+mongoimport --db amazon --collection posts --file Users/gielderks/PycharmProjects/NLP_V2/laptop_features.json' --jsonArray
+mongoimport -d amazon -c metadata --type CSV --file '/Users/gielderks/PycharmProjects/NLP_V2/laptop_review_data/laptop_metadata.csv' --headerline
+
+mongoimport --db amazon --collection amazonappv2 --file '/Users/gielderks/PycharmProjects/NLP_V2/laptop_features_second.json' --jsonArray

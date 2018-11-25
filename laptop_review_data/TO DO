@@ -1,0 +1,52 @@
+1. Add title to metadata
+
+2. Deploy simple apps to heroku
+
+3. Connect app to mlab dbs
+
+4. Load review and metadata in mongodb collection (production)
+
+5. Replace restaurant model for actual working model that does this for laptops ( use semeval files in other docs)
+
+
+9. Change below to db queries in app
+ :# Load Metadata
+metadata = pd.read_csv("/Users/gielderks/PycharmProjects/NLP_V2/laptop_review_data/laptop_metadata.csv")
+
+# Load Laptop Reviews
+reviews = pd.read_csv("/Users/gielderks/PycharmProjects/NLP_V2/laptop_review_data/laptops_reviews.csv")
+
+7. Add preprocessing
+https://medium.com/coinmonks/multi-label-classification-blog-tags-prediction-using-nlp-b0b5ee6686fc
+
+
+8. https://aclweb.org/anthology/S/S16/ link to papers
+
+
+
+
+
+
+
+DONE
+6. Git integration
+
+
+7. Process all reviews from downloaded file  --> https://www.dataquest.io/blog/python-json-tutorial/
+
+8. The sentiment frequency currently is a count of positive and negative occurences. So 3 people are not happy with screen
+and 5 are then "frequency" = 2
+
+6. number of reviews selecter slider
+
+db.student.aggregate([
+    // First sort all the docs by name
+    {$sort: {name: 1}},
+    // Take the first 100 of those
+    {$limit: 100},
+    // Of those, take only ones where marks > 35
+    {$match: {marks: {$gt: 35}}}
+])
+
+5. Price selecter slider
+
