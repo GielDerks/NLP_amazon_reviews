@@ -166,9 +166,14 @@ def feature_sentiment(sentence):
 
 
 def replace_pronouns(text):
+    input_actual = text
     text = nlp(text)
-    text = text._.coref_resolved
-    return text
+    text_resolved = text._.coref_resolved
+    if text_resolved:
+        text = text_resolved
+        return text
+    else:
+        return input_actual
 
 
 # load reviews and metadata
