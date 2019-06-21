@@ -356,7 +356,6 @@ def datatable_negative(value):
 
     return neg_aspects.to_dict('records')
 
-#TEST COMMIT
 
 if __name__ == '__main__':
     app.run_server(debug=True)
