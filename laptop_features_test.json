@@ -1,12 +1,7 @@
 [
-{"name": "B00005IA5C", "positive": {"across": 1, "cost": 3.0, "love": 1, "is": 1.5, "looking": 1, "HIGHLY": 1, "recommend": 1.5}, "negative": {"is": -2.25, "with": -1}},
-{"name": "B00005NBIT", "positive": {"processor": 1, "ports": 1, "is": 2.25, "aftermarket": 2, "G4": 1, "screen.)Enjoy": 1}, "negative": {"skimps": -2, "for": -1, "added": -1, "'s": -1, "inches": -1, "solve": -1}},
-{"name": "B00006LS92", "positive": {"is": 1, "recommend": 1.5, "was": 1, "display": 2, "value": 1}, "negative": {"drive": -2, "shut": -2, "am": -1, "of": -1, "viruses": -1.5, "had": -1.5, "processor": -1, "is": -1, "drives": -1, "'s": -1, "charge": -1, "machine": -1, "iBook": -1}},
-{"name": "B00007EMD2", "positive": {"standpoint": 1, "case": 1, "keyboard": 1, "feel": 1, "of": 1, "versions": 1, "are": 1, "machine": 2, "is": 3, "product": 2, "recording": 3, "stuff": 1, "programs": 1, "software": 3.5, "system": 1}, "negative": {"on": -1.5}},
-{"name": "B0000APSKB", "positive": {"with": 1, "had": 2, "to": 2, "repaired": 2, "told": 1, "laptop": 1}, "negative": {"are": -1, "said": -2, "had": -2, "broke": -1, "have": -3.0, "told": -2.25}},
-{"name": "B0000D8DKT", "positive": {"is": 4.5, "efficiency": 2, "processor": 1, "love": 1.5, "print": 1, "tradeoff": 1, "drain": 1, "less": 1, "model": 1, "mix": 1, "whole": 1, "cracking": 1, "open": 1, "abounds": 1, "way": 1, "plan": 1}, "negative": {"phrase": -1, "guards": -1}},
-{"name": "B0000DF2QB", "positive": {"laptop": 1, "level": 1, "price": 1, "is": 3.5, "performance": 1}, "negative": {"amazon": -1, "check": -1, "be": -1}},
-{"name": "B0000U9H40", "positive": {"recommended": 2, "easy": 1, "is": 1, "laptops": 1, "Buds": 2, "one": 1}, "negative": {"was": -1, "make": -1}},
-{"name": "B00021BYZC", "positive": {}, "negative": {"select": -1, "last": -3.0}},
-{"name": "B00022ADWG", "positive": {"hobbyist": 1, "feels": 1, "is": 1, "suite": 1}, "negative": {"is": -1}}
+,
+,
+,
+
+,
 ]
