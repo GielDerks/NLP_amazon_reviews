@@ -23,4 +23,6 @@ The sentence / phrase is classified as positive – neutral – negative.
 
 # App Demo
 
+Simple web app aggregating all the postive and negative aspects that reviewers mentioned in the products's reviews
+
 ![](demo_app.gif)
