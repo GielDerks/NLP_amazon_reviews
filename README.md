@@ -1,4 +1,3 @@
 # NLP_amazon_reviews
 
-
-![](ezgif.com-video-to-gif.gif)
+![App Demo](screenshots app/ezgif.com-video-to-gif.gif)
