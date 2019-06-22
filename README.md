@@ -14,10 +14,7 @@ The following tools, libraries and data were used to build this pipeline:
 
 Human annotated laptop reviews are used to train a model that identifies terms that are part of the overall opinion for a product, such as battery life and screen in a sentence.
 
-
-
 The sentence / phrase is classified as positive – neutral – negative.
-This laptop’s speed is amazingàPositive sentiment
 
 
 
