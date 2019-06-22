@@ -17,6 +17,9 @@ Human annotated laptop reviews are used to train a model that identifies terms t
 The sentence / phrase is classified as positive – neutral – negative.
 
 
+![](demo.png)
+
+
 
 # App Demo
 
