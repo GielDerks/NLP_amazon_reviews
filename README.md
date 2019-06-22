@@ -6,11 +6,11 @@ For example, a review on a website might be broadly positive about a laptop, but
 
 The following tools, libraries and data were used to build this pipeline:
 
-• Spacy library (tokenization, sentence boundary detection, dependency parser, etc.)
-• Scikit Learn (python machine learning lib)
-• Neural Coref (pre-trained neural network model for recognizing and replacing pronouns)
-• Annotated Laptop Reviews — Laptop reviews that were manually labeled into categories
-• Opinion lexicon (dictionaries with positive and negative words)
+- Spacy library (tokenization, sentence boundary detection, dependency parser, etc.)
+- Scikit Learn (python machine learning lib)
+- Neural Coref (pre-trained neural network model for recognizing and replacing pronouns)
+- Annotated Laptop Reviews — Laptop reviews that were manually labeled into categories
+- Opinion lexicon (dictionaries with positive and negative words)
 
 Human annotated laptop reviews are used to train a model that identifies terms that are part of the overall opinion for a product, such as battery life and screen in a sentence.
 
